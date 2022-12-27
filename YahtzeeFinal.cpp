@@ -1,8 +1,3 @@
-/***
-Referred the SimpleYahtzee code shared in canvas for recursion function and bit manipulation.
-***/
-
-
 #include<iostream>
 #include<bits/stdc++.h>
 #include<list>
