@@ -1,3 +1,4 @@
 # onlinejudge-ps 
 Accepted solutions for some challenging problems on online-judge.
-Languages used: C++, Python.
+
+_Languages used:_ C++, Python.
